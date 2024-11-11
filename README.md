@@ -64,7 +64,7 @@ A platform for question and answer sharing, featuring paging, filtering, and aut
   - Uses NUnit for unit testing, and AWS S3 for file storage.
   - Dockerized application with Docker Compose for easy deployment.
 
-### [Bus Ticket Booking System](https://github.com/Sharif03/BusTicketBookingSystem)
+### [Geometry Genius](https://github.com/Sharif03/geometry-genius)
 A simple web application for calculating areas of various geometric shapes.
 - **Technologies:** HTML, CSS, Tailwind, JavaScript, Netlify
 - **Highlights:**
