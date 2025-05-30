@@ -1,6 +1,6 @@
 # 👋 Md. Shariful Islam
 
-### .NET Developer | C# | Angular | EF Core
+### .NET | C# | Angular | EF Core
 
 **📧 Contact**  
 - Email: islam.shariful02@northsouth.edu  
